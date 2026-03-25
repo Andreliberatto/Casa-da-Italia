@@ -1,6 +1,7 @@
 # Casa da Itália
 
 Este é um projeto de portfólio simples para o site da Casa da Itália, um restaurante italiano fictício. O site apresenta informações básicas sobre o restaurante, incluindo menu, localização e contato.
+<img src="rascunh.bmp">
 
 ## Tecnologias Utilizadas
 
